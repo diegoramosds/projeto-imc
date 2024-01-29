@@ -2,8 +2,8 @@ https://github.com/diegoramosds/projeto-imc/assets/140274064/703b2bf5-3058-438f-
 
 
 
-OQUE FOI USADO:
-HTML
-CSS
+OQUE FOI USADO: <br>
+HTML<br>
+CSS<br>
 JAVASCRIPT
 
